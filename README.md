@@ -16,6 +16,6 @@ The image comes with the following installed and integrated:
 
 Download and run with:
 ```
-docker run -p 127.0.0.1:8888:8888 -it wh1ter0s3/ctf-crypto:latest
+docker run -p 127.0.0.1:8888:8888 -it wh1ter0s3/ctf-crypto:10.4
 ```
 Then open 127.0.0.1:8888 in your browser.
